@@ -1,0 +1,8 @@
+.seen{
+    background: url(image/seen1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+form{
+    border: 2px solid white;
+    
+}

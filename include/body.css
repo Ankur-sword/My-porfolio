@@ -1,0 +1,33 @@
+
+body,html{
+    height: 100%;
+    margin-top: 0px;
+    
+}
+.hello{ 
+    width:100%;
+    height:500px;
+    background: url('image/ankur.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.word{
+    font-family: 'Merriweather', serif;
+}
+.intro{
+    font-family: 'Merriweather', serif;
+}
+
+    
+/*background: url(image/ankur.jpg);
+height: 80%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}*/
+    
+     
+ 
+
